@@ -8,7 +8,8 @@
 
 
 ![NyckMarc GitHub stats](https://github-readme-stats.vercel.app/api?username=NyckMarc&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyckMarc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/NyckMarc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyckMarc&layout=compact&langs_count=7&theme=dracula"/>
 
 
 ## Tecnologias usadas em alguns projetos:
