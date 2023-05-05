@@ -25,6 +25,7 @@
 <br>
 <br>
 
-Admirador da tecnologia, pretendo um dia poder mudar a vida das pessoas através da programação ou por meio de outros recursos. Aliás, eu amo jogar vídeo game.
+Seja bem-vindo (a)!!!
+Este é o local onde você irá ficar por dentro de alguns dos projetos que desenvolvi na minha trajetória de Desenvolvedor Front-End.
 
 ### E-mail para contato: nycollasmarcelino@gmail.com 📧
