@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyckMarc&layout=compact&langs_count=7&theme=dracula"/>
 
 
-##👨‍💻Tecnologias usadas em alguns projetos:
+## Tecnologias usadas em alguns projetos:
 
 <div style="display: inline_block"><br>
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
