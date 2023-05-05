@@ -27,6 +27,6 @@
 
 Seja bem-vindo(a)!!!
 <br>
-Este é o local onde você irá ficar por dentro de alguns dos projetos que desenvolvi na minha trajetória de Desenvolvedor Front-End.
+Este é o local onde você irá ficar por dentro de alguns dos projetos que desenvolvi na minha trajetória de Desenvolvedor Web.
 
 ### E-mail para contato: nycollasmarcelino@gmail.com 📧
