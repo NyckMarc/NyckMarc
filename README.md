@@ -67,7 +67,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyckMarc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
 /> 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 📌 Social 
 
