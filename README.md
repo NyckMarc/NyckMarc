@@ -4,7 +4,7 @@
 
 **Soft skills: Trabalho em equipe, Resolução de problemas, comunicação, liderança de equipe e adaptar-se a diferentes estilos de trabalho.**
 
-**Hard skills: HTML, CSS, JavaScript, SQL e Java.**
+**Hard skills: JavaScript, HTML e CSS**
 
 ## 🤖 Linguagens e Tecnologias
 
@@ -30,21 +30,6 @@ width="45px"
 style="pdding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-
-<img 
-align="left"
-title="MySQL"
-width="45px"
-style="pdding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-
-<img 
-align="left"
-title="JAVA"
-width="45px"
-style="pdding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
 <br/>
 <br/>
