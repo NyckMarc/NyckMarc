@@ -49,7 +49,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
     align="left" 
     alt="GitHub Stats" 
     height="300"
-    src="https://github-readme-stats.vercel.app/api?username=NyckMarc&show_icons=true&border_radius=5&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f" alt="GitHub stats">
+    src="https://github-readme-stats.vercel.app/api?username=NyckMarc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+/>
 
 </p>
 
