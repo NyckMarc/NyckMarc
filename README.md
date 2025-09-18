@@ -41,7 +41,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
     align="left" 
     alt="GitHub Stats" 
     height="150" 
-    style="padding-right: 10px;" 
+    style="padding-right: 50px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyckMarc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
