@@ -49,7 +49,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
     align="left" 
     alt="GitHub Stats" 
     height="300"
-    src="https://github-readme-stats.vercel.app/api?username=NyckLuck&theme=dark&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=NyckLuck&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
   />
 
 </p>
