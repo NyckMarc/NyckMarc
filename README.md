@@ -1,4 +1,4 @@
-## 👾 Nycollas Marcelino
+  ## 👾 Nycollas Marcelino
 
 **Me chamo Nycollas, tenho 22 anos e atualmente estou cursando o 7º Semestre de Ciência da Computação na Universidade adventista de São Paulo - UNASP.**
 
@@ -49,7 +49,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
     align="left" 
     alt="GitHub Stats" 
     height="300" 
-    src="https://github-readme-stats.vercel.app/api?username=NyckMarc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+    src="https://github-readme-stats.vercel.app/api?username=NyckMarc&show_icons=true&border_radius=5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
 </p>
