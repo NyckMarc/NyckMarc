@@ -4,7 +4,7 @@
 
 **Soft skills: Trabalho em equipe, Resolução de problemas, comunicação, liderança de equipe e adaptar-se a diferentes estilos de trabalho.**
 
-**Hard skills: JavaScript, HTML e CSS**
+**Hard skills: JavaScript, HTML, CSS & Kotlin**
 
 ## 🤖 Linguagens e Tecnologias
 
