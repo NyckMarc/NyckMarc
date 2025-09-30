@@ -31,6 +31,13 @@ style="pdding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 
+<img 
+align="left"
+title="Kotlin"
+width="45px"
+style="pdding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+
 <br/>
 <br/>
 
