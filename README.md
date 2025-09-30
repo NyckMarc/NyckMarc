@@ -48,7 +48,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="300"
+    height="10"
     src="https://github-readme-stats.vercel.app/api?username=NyckLuck&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
   />
 
