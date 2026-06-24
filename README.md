@@ -1,10 +1,11 @@
     ## 👾 Nycollas Marcelino
 
-**Me chamo Nycollas, tenho 22 anos e atualmente estou cursando o 7º Semestre de Ciência da Computação na Universidade adventista de São Paulo - UNASP.**
+**Me chamo Nycollas, graduado em Ciência da Computação pela Universidade Adventista de São Paulo (UNASP), com experiência prática no setor de tecnologia e processos de negócio. 
+Durante meu período na Vivo (Telefônica Brasil), atuei na diretoria de TI (CIO), com foco em Customer Experience (CX).**
 
-**Soft skills: Trabalho em equipe, Resolução de problemas, comunicação, liderança de equipe e adaptar-se a diferentes estilos de trabalho.**
+**Soft skills: Trabalho em equipe, Liderança, Resolução de problemas, comunicação e adaptar-se a diferentes estilos de trabalho.**
 
-**Hard skills: JavaScript, HTML, CSS & Kotlin**
+**Hard skills: JavaScript, HTML5, CSS3, Jira, Scrum, Kanban, Waterfall & Práticas do PMBOK**
 
 ## 🤖 Linguagens e Tecnologias
 
