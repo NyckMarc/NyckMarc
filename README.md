@@ -5,7 +5,7 @@ Durante meu período na Vivo (Telefônica Brasil), atuei na diretoria de TI (CIO
 
 **Soft skills: Trabalho em equipe, Liderança, Resolução de problemas, comunicação e adaptar-se a diferentes estilos de trabalho.**
 
-**Hard skills: JavaScript, HTML5, CSS3, Jira, Scrum, Kanban, Waterfall & Práticas do PMBOK**
+**Hard skills: Kotlin, JavaScript, HTML5, CSS3, Jira, Scrum, Kanban, Waterfall & Práticas do PMBOK**
 
 ## 🤖 Linguagens e Tecnologias
 
