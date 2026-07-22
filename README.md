@@ -3,9 +3,9 @@
 **Me chamo Nycollas, tenho 23 anos, graduado em Ciência da Computação pela Universidade Adventista de São Paulo (UNASP), com experiência prática no setor de tecnologia e processos de negócio. 
 Durante meu período na Vivo (Telefônica Brasil), atuei na diretoria de TI (CIO), com foco em Customer Experience (CX).**
 
-Minha atuação concentrou-se no gerenciamento de projetos via Jira, desde a estruturação de demandas (issues) até a entrega de épicos, garantindo a visibilidade dos processos e o controle rigoroso de cronogramas. Fui responsável pela gestão de fluxos para clientes B2B e B2C (Pós-pago e Controle).
+**Minha atuação concentrou-se no gerenciamento de projetos via Jira, desde a estruturação de demandas (issues) até a entrega de épicos, garantindo a visibilidade dos processos e o controle rigoroso de cronogramas. Fui responsável pela gestão de fluxos para clientes B2B e B2C (Pós-pago e Controle).**
 
-Objetivo: Gestão de Projetos | Gestão de Produtos | Gestão de Processos
+**Objetivo: Gestão de Projetos | Gestão de Produtos | Gestão de Processos**
 
 **Soft skills: Trabalho em equipe, Liderança, Resolução de problemas, comunicação e adaptar-se a diferentes estilos de trabalho.**
 
